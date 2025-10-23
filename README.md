@@ -1,2 +1,15 @@
-# AboutMe
-This is a simple "About Me" webpage built with HTML and CSS. It showcases a short introduction, personal interests, and a visually appealing layout designed to highlight personality and creativity on a single page.
+# About Me — Mmesoma Stella Nzeribe
+
+A small personal "About Me" webpage built with plain HTML and CSS
+
+Project contents
+- `index.html` — main markup
+- `styles.css` — site styles
+
+
+Contributing
+- Issues and pull requests are welcome — small improvements and accessibility fixes are appreciated.
+
+Contact
+- Mmesoma Stella Nzeribe — mmesomanzeribe@gmail.com
+
