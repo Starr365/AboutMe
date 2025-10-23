@@ -68,6 +68,7 @@ h1{
     text-align: justify;
     box-shadow: 0 10px 30px rgba(20, 40, 50, 0.12);
     transition: transform 200ms ease, box-shadow 200ms ease;
+    font-size: 0.9rem;
 }
 
 
@@ -104,6 +105,7 @@ footer {
     flex-direction: column;
     align-items: center;
     padding: 1rem 2.5rem;
+    font-size: .8rem;
 }
 
 .social-links a {
@@ -145,8 +147,16 @@ footer {
     .card {
         padding: 1.25rem;
         margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+    footer {
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 17em;
+        font-size: 1rem;
     }
 }
+
 
 /* Media query for desktops (1024px and above) */
 @media (min-width: 1024px) {
@@ -173,10 +183,12 @@ footer {
     .card {
         padding: 1.5rem;
         margin-bottom: 1.5rem;
+        font-size: 1rem;
     }
     footer {
         flex-direction: row;
         justify-content: space-between;
         margin-top: 17em;
+        font-size: 1rem;
     }
 }
